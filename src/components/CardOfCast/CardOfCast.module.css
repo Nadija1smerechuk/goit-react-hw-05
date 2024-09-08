@@ -1,0 +1,21 @@
+.img {
+    width: 150px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 350px;
+    padding: 8px;
+    align-items: center;
+    background-color: rgba(248, 250, 252, 0.442);
+}

@@ -1,0 +1,19 @@
+
+
+.link {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-size: 30px;
+} 
+
+.container {
+    display: flex;
+    gap: 30px;
+    border-bottom: 2px solid rgb(224, 217, 217);
+}
+
+
+.active {
+    color: red
+}
